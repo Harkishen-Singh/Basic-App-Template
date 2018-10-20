@@ -21,6 +21,6 @@ export const Navigation = createStackNavigator({
     }
 },
 {
-    initialRouteName:'Login'
+    initialRouteName:'Home'
 }
 );
